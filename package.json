@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
-    "cardanocli-js": "^3.0.0",
+    "cardanocli-js": "^3.1.2",
     "dotenv": "^8.2.0",
     "form-data": "^4.0.0",
     "lodash": "^4.17.21",

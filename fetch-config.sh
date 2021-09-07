@@ -1,3 +1,3 @@
-NODE_BUILD_NUM=5821110
+NODE_BUILD_NUM=5367762
 
-wget -N https://hydra.iohk.io/build/${NODE_BUILD_NUM}/download/1/mainnet-shelley-genesis.json
+wget -N https://hydra.iohk.io/build/${NODE_BUILD_NUM}/download/1/testnet-shelley-genesis.json
